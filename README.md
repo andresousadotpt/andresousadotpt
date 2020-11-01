@@ -3,9 +3,11 @@ My name is André Sousa, 18 years old, I'm from <img src="https://image.flaticon
 - 💻 Right now I'm not working or intern in any company
 - 📜 Learning some new programming languages (ruby, javascript, c++) and their frameworks
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; My GitHub Stats
 
 ![My GitHub](https://github-readme-stats.vercel.app/api?username=andresousa23&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)
+
+## 💻 My GitHub Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresousa23&theme=dracula&count_private=true&show_icons=true)
 
