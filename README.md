@@ -1,7 +1,8 @@
 # Hey everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is André Sousa, 18 years old, I'm from <img src="https://image.flaticon.com/icons/svg/197/197463.svg" width="13"/> <b>Porto, Portugal</b> and right now I'm in a professional course called <b>TGPSI (Técnico de Gestão e programação de Sistemas Informáticos).</b> <br>
 - 💻 Right now I'm not working or intern in any company
-- 📜 Learning some new programming languages (ruby, javascript, c++) and their frameworks
+- 🛠️ Languages I know, C# (windows forms), C, basic javascript, basic python!
+- 📜 Learning some new programming languages (ruby, javascript, c++, python) and some of their frameworks
 
 ## &#x1f4c8; My GitHub Stats
 
