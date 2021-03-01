@@ -5,7 +5,7 @@ My name is André Sousa, 18 years old, I'm from <img src="https://image.flaticon
 - 📜 Learning some new programming languages and learn more of some programming languages {ruby, javascript, c++, python, kotlin, java} and some of their frameworks
 
 Socials:
-![HackTheBox Profile](https://www.hackthebox.eu/profile/281795)
+<link src="https://www.hackthebox.eu/profile/281795">HackTheBox</link>
 
 ## &#x1f4c8; My GitHub Stats
 
