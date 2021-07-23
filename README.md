@@ -43,11 +43,12 @@
 [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-sousa-324032208/)
 [My Website](https://andresousa.pt)
 
-## &#x1f4c8; My GitHub Stats
+## Github Stats
+<div align="center">
 
 ![My GitHub](https://github-readme-stats.vercel.app/api?username=andresousa23&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)
 
-## 💻 My GitHub Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresousa23&theme=dracula&count_private=true&show_icons=true)
 
+</div>
