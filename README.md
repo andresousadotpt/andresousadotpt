@@ -44,10 +44,11 @@
 [My Website](https://andresousa.pt)
 
 ## Github Stats
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      ![My GitHub](https://github-readme-stats.vercel.app/api?username=andresousa23&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)
+<table><tr><td valign="top" width="50%">
+  
+      <div align="center">  
+      <img style="margin: 10px" src="https://github-readme-stats.vercel.app/api?username=andresousa23&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" />  
+      </div>
     </td>
     <td valign="top" width="50%">
       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresousa23&theme=dracula&count_private=true&show_icons=true)
