@@ -2,7 +2,7 @@
 
 ### <div align="center">I'm André Sousa, a Software and Web Developer, I'm from <img src="https://image.flaticon.com/icons/svg/197/197463.svg" width="13"/> <b>Porto, Portugal</b></div>
 
-### Skill Set  
+# Skill Set  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
