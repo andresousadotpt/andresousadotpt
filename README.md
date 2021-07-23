@@ -1,4 +1,4 @@
-# Hey everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# <div align="center">Hey everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></div>
 
 My name is André Sousa, 19 years old, I'm from <img src="https://image.flaticon.com/icons/svg/197/197463.svg" width="13"/> <b>Porto, Portugal</b> and right now I'm in a professional course called <b>TGPSI (Técnico de Gestão e Programação de Sistemas Informáticos).</b> <br>
 - 💻 Right now I'm not working or intern in any company
