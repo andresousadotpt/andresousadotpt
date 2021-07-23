@@ -44,16 +44,16 @@
 [My Website](https://andresousa.pt)
 
 ## Github Stats
-<table><tr>
-  <td valign="top" width="33%">
-      <div align="center">  
-        <img style="margin: 10px" src="https://github-readme-stats.vercel.app/api?username=andresousa23&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" </img>  
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <div align="center">  
-        <img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresousa23&theme=dracula&count_private=true&show_icons=true" </img>  
-      </div>
-    </td>
-  </tr>
-</table>  
+<table><tr><td valign="top" width="33%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=andresousa23&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" align="left" />
+
+</td><td valign="top" width="33%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresousa23&theme=dracula&count_private=true&show_icons=true" align="left" />
+
+</td><td valign="top" width="33%">
+
+
+
+</td></tr></table>  
