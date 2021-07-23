@@ -46,11 +46,11 @@
 ## Github Stats
 <table><tr><td valign="top" width="33%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=andresousa23&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" align="left" />
+<img src="https://github-readme-stats.vercel.app/api?username=andresousa23&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true" align="left" />
 
 </td><td valign="top" width="33%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresousa23&theme=dracula&count_private=true&show_icons=true" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresousa23&theme=dracula&count_private=true&show_icons=true&hide_border=true" align="left" />
 
 </td><td valign="top" width="33%">
 
