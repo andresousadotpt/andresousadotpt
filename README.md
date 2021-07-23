@@ -1,13 +1,15 @@
 # Hey everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is André Sousa, 19 years old, I'm from <img src="https://image.flaticon.com/icons/svg/197/197463.svg" width="13"/> <b>Porto, Portugal</b> and right now I'm in a professional course called <b>TGPSI (Técnico de Gestão e programação de Sistemas Informáticos).</b> <br>
+
+My name is André Sousa, 19 years old, I'm from <img src="https://image.flaticon.com/icons/svg/197/197463.svg" width="13"/> <b>Porto, Portugal</b> and right now I'm in a professional course called <b>TGPSI (Técnico de Gestão e Programação de Sistemas Informáticos).</b> <br>
 - 💻 Right now I'm not working or intern in any company
-- 🛠️ Languages I know, C# [windows forms], C, Java, Javascript, Python!
-- 📜 Learning some new programming languages and learn more of some programming languages {ruby, javascript, c++, python, kotlin, java} and some of their frameworks
+
+
 
 📱 Socials:
 [HackTheBox](https://www.hackthebox.eu/profile/281795), 
 [TryHackMe](https://tryhackme.com/p/andresousa.23), 
 [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-sousa-324032208/)
+[My Website](https://andresousa.pt)
 
 ## &#x1f4c8; My GitHub Stats
 
