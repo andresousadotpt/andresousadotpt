@@ -44,7 +44,7 @@
 [My Website](https://andresousa.pt)
 
 ## Github Stats
-<div align="center">
+<div>
 
 ![My GitHub](https://github-readme-stats.vercel.app/api?username=andresousa23&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)
 
