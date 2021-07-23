@@ -44,6 +44,7 @@
 [My Website](https://andresousa.pt)
 
 ## Github Stats
+<div align="center">
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=andresousa23&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true" align="center" />
@@ -52,4 +53,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresousa23&theme=dracula&count_private=true&show_icons=true&hide_border=true" align="center" />
 
-</td></tr></table>  
+</td></tr></table></div>
