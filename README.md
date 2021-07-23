@@ -1,7 +1,7 @@
 # <div align="center">Hey everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></div>
 
 ### <div align="center">I'm André Sousa, a Software and Web Developer, I'm from <img src="https://image.flaticon.com/icons/svg/197/197463.svg" width="13"/> <b>Porto, Portugal</b></div>
-
+<br>
 # Skill Set  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
