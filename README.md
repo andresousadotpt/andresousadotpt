@@ -2,8 +2,6 @@
 
 ### <div align="center">I'm André Sousa, a Software and Web Developer, I'm from <img src="https://cdn-icons-png.flaticon.com/512/299/299724.png" width="13"/> <b>Porto, Portugal</b></div>
 
-- 💻 Right now I'm not working or intern in any company
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andresousadotpt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andresousadotpt) 
 
@@ -19,9 +17,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=andresousadotpt&icon=1&color=4)](https://visitcount.itsvg.in)
