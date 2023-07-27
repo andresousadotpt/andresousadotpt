@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresousadotpt&layout=compact&hide_border=true&title_color=CF0A0A&text_color=F0F8FF&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=andresousadotpt&bg_color=0d1117&color=cf0a0a&line=cf0a0a&point=cf0a0a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andresousadotpt&bg_color=0d1117&color=cf0a0a&line=cf0a0a&point=cf0a0a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center"> 
    <a href="mailto:contact@andresousa.pt" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
