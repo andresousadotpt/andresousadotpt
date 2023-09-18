@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CF0A0A&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CF0A0A&size=40&center=true&vCenter=true&width=1000&lines=Hey🙋‍♂️,+I+am+André+Sousa;A+Back-end+Developer👨‍💻;I'm+from+Porto+Portugal🌍;Welcome,+to+my+profile!+😊)](https://git.io/typing-svg)
@@ -20,6 +23,7 @@
   <img align="center" title="JavaScript" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" title="Java" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
   <img align="center" title="Spring" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
+  <img align="center" title="csharp" alt="csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </div>
 
   ### Database Tools:
@@ -27,6 +31,7 @@
   <img align="center" title="mysql" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
   <img align="center" title="postgresql" alt="postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
   <img align="center" title="mongoDB" alt="mongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
+  <img align="center" title="csharp" alt="csharp" height="30" width="40" src="https://cyclr.com/wp-content/uploads/2022/03/ext-550.png">
 </div>
 
   ### CI/CD:
