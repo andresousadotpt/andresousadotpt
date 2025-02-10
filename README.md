@@ -14,43 +14,48 @@
 
 <div align="center"> 
    <a href="mailto:contact@andresousa.pt" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
- </div>
+</div>
   
-  ### Tech Stack:
+### Tech Stack:
 <div style="display: inline_block">
-  <img align="center" title="HTML5" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" title="CSS3" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="center" title="JavaScript" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center" title="typescript" alt="typescript" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />        
-  <img align="center" title="react" alt="react" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />        
+  <img align="center" title="typescript" alt="typescript" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />    
   <img align="center" title="java" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" title="spring" alt="spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" title="quarkus" alt="quarkus" height="30" width="40" src="https://www.svgrepo.com/show/354245/quarkus-icon.svg" />
-          
+  <img align="center" title="go" alt="go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
+  <img align="center" title="shell" alt="shell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />    
 </div>
 
-  ### Database Tools:
+### Database Tools:
 <div style="display: inline_block">
   <img align="center" title="mysql" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
   <img align="center" title="postgresql" alt="postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
-  <img align="center" title="mongoDB" alt="mongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
 </div>
 
-  ### CI/CD and Analytics/Monitoring:
+### Cloud:
+<div style="display: inline_block">
+  <img align="center" title="aws" alt="aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />   
+  <img align="center" title="azure" alt="azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />   
+</div>
+
+### Infrastructure Provisioning:
+<div style="display: inline_block">
+  <img align="center" title="terraform" alt="terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg"/>
+</div>
+
+### CI and CD:
 <div style="display: inline_block">
   <img align="center" title="docker" alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
   <img align="center" title="kubernetes" alt="kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"/>
-  <img align="center" title="terraform" alt="terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
-  <img align="center" title="jenkins" alt="jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
-  <img align="center" title="aws" alt="aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />        
+  <img align="center" title="jenkins" alt="jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />     
+</div>
+
+### Metrics, Analytics and Monitoring:
+<div style="display: inline_block">
   <img align="center" title="grafana" alt="grafana" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
   <img align="center" title="prometheus" alt="prometheus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
   <img align="center" title="elastic stack" alt="elastic stack" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" />
-
-
 </div>
 
-  ### IDEs and Tools:
+### IDEs and Tools:
 <div style="display: inline_block">
   <img align="center" title="vscode" alt="vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>
   <img align="center" title="intellijidea" alt="intellijidea" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png?20200803071016"/>
