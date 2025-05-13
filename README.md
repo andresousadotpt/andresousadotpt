@@ -18,7 +18,6 @@
   
 ### Tech Stack:
 <div style="display: inline_block">
-  <img align="center" title="typescript" alt="typescript" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />    
   <img align="center" title="java" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" title="go" alt="go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
   <img align="center" title="shell" alt="shell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />    
@@ -55,7 +54,6 @@
 <div style="display: inline_block">
   <img align="center" title="grafana" alt="grafana" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
   <img align="center" title="prometheus" alt="prometheus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
-  <img align="center" title="elastic-stack" alt="elastic-stack" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" />
   <img align="center" title="loki" alt="loki" height="30" width="40" src="https://grafana.com/media/docs/loki/logo-grafana-loki.png" />
   <img align="center" title="mimir" alt="mimir" height="30" width="40" src="https://grafana.com/static/img/logos/logo-mimir.svg" />
   <img align="center" title="fluentbit" alt="fluentbit" height="30" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo_of_fluentbit.svg/314px-Logo_of_fluentbit.svg.png" />
