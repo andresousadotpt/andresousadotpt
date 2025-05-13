@@ -30,29 +30,35 @@
   <img align="center" title="postgresql" alt="postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
 </div>
 
-### Cloud:
+### Infrastructure & Cloud:
 <div style="display: inline_block">
   <img align="center" title="aws" alt="aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />   
-  <img align="center" title="azure" alt="azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />   
-</div>
-
-### Infrastructure Provisioning:
-<div style="display: inline_block">
-  <img align="center" title="terraform" alt="terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg"/>
-</div>
-
-### CI and CD:
-<div style="display: inline_block">
+  <img align="center" title="azure" alt="azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />  
+  <img align="center" title="terraform" alt="terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg"/> 
   <img align="center" title="docker" alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
   <img align="center" title="kubernetes" alt="kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"/>
-  <img align="center" title="jenkins" alt="jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />     
+  <img align="center" title="helm" alt="helm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" />
 </div>
 
-### Metrics, Analytics and Monitoring:
+### GitOps:
+<div style="display: inline_block">
+  <img align="center" title="flux" alt="flux" height="30" width="40" src="https://raw.githubusercontent.com/fluxcd/website/62948a0be43ce7a99e9ac5c3a6e4aa4400c63274/assets/icons/logo.svg"/>
+</div>
+
+### CI/CD & Automation:
+<div style="display: inline_block">
+  <img align="center" title="github-actions" alt="github-actions" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg"/>
+  <img align="center" title="gitlab-ci-cd" alt="gitlab-ci-cd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg"/>
+</div>
+
+### Monitoring and Observability:
 <div style="display: inline_block">
   <img align="center" title="grafana" alt="grafana" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
   <img align="center" title="prometheus" alt="prometheus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
-  <img align="center" title="elastic stack" alt="elastic stack" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" />
+  <img align="center" title="elastic-stack" alt="elastic-stack" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" />
+  <img align="center" title="loki" alt="loki" height="30" width="40" src="https://grafana.com/media/docs/loki/logo-grafana-loki.png" />
+  <img align="center" title="mimir" alt="mimir" height="30" width="40" src="https://grafana.com/static/img/logos/logo-mimir.svg" />
+  <img align="center" title="fluentbit" alt="fluentbit" height="30" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo_of_fluentbit.svg/314px-Logo_of_fluentbit.svg.png" />
 </div>
 
 ### IDEs and Tools:
@@ -62,10 +68,10 @@
   <img align="center" title="postman" alt="postman" height="30" width="40" src="https://www.svgrepo.com/show/354202/postman-icon.svg"/>
 </div>
 
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" alt= "Aguarde" src="https://profile-counter.glitch.me/{andresousadotpt}/count.svg" /></p> 
-<br>
+<div align="center">
+  <br><p align="center"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" alt= "Aguarde" src="https://profile-counter.glitch.me/{andresousadotpt}/count.svg" /></p> 
+  <br>
 </div>
   
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CF0A0A&height=120&section=footer"/>
