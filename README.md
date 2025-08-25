@@ -3,7 +3,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CF0A0A&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CF0A0A&size=40&center=true&vCenter=true&width=1000&lines=Hey🙋‍♂️,+I+am+André+Sousa;A+Back-end+Developer👨‍💻;I'm+from+Porto+Portugal🌍;Welcome,+to+my+profile!+😊)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CF0A0A&size=40&center=true&vCenter=true&width=1000&lines=Hey🙋‍♂️,+I+am+André+Sousa;A+DevOps+Engineer👨‍💻;I'm+from+Porto+Portugal🌍;Welcome,+to+my+profile!+😊)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=andresousadotpt&show_icons=true&count_private=true&hide_border=true&title_color=CF0A0A&icon_color=CF0A0A&text_color=F0F8FF&bg_color=0d1117" alt="André Sousa github stats" /> 
