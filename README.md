@@ -68,7 +68,7 @@
 
 <div align="center">
   <br><p align="center"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" alt= "Aguarde" src="https://profile-counter.glitch.me/{andresousadotpt}/count.svg" /></p> 
+  <p align="center"><img align="center" alt= "Aguarde" src="https://profile-counter.deno.dev/andresousadotpt/count.svg" /></p> 
   <br>
 </div>
   
