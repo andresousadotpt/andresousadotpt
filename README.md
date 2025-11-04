@@ -42,6 +42,7 @@
 ### GitOps:
 <div style="display: inline_block">
   <img align="center" title="flux" alt="flux" height="30" width="40" src="https://raw.githubusercontent.com/fluxcd/website/62948a0be43ce7a99e9ac5c3a6e4aa4400c63274/assets/icons/logo.svg"/>
+  <img align="center" title="argocd" alt="argocd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg"/>
 </div>
 
 ### CI/CD & Automation:
