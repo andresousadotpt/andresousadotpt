@@ -10,7 +10,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.andresousa.pt/api/top-langs/?username=andresousadotpt&layout=compact&hide_border=true&title_color=CF0A0A&text_color=F0F8FF&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andresousadotpt&bg_color=0d1117&color=cf0a0a&line=cf0a0a&point=cf0a0a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.andresousa.pt/graph?username=andresousadotpt&bg_color=0d1117&color=cf0a0a&line=cf0a0a&point=cf0a0a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 ### Tech Stack:
 <div style="display: inline_block">
